@@ -7,9 +7,6 @@ Projeto de sistema de estoque para um mercado (foco no backend) :)
 - [Overview](#overview)
   - [Descrição](#Descrição)
   - [Screenshot](#screenshot)
-- [Meu processo](#meu-processo)
-  - [O que eu fiz](#O-que-eu-fiz)
-  - [O-que-aprendi](#O-que-aprendi)
 - [Author](#author)
 
 ## Overview
