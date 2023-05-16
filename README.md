@@ -1,4 +1,4 @@
-# Projeto (PHP) - Sistema de  estoque Pt.1
+# Projeto(PHP) - Sistema de  estoque Pt.1
 
 Projeto de sistema de estoque para um mercado (foco no backend) :)
 
